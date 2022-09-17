@@ -1,0 +1,128 @@
+#main {
+    width: 100%;
+    height: auto;
+    background-color: #222fd9;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: system-ui, Arial;
+    text-align: center;
+}
+
+.konten {
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.text1 {
+    margin: 0;
+    padding-top: 30px;
+}
+
+.image1 {
+    width: 60%;
+    height: 60%;
+    margin-top: 20px;
+}
+
+.p1 {
+    margin-left: 8%;
+    margin-right: 8%;
+    color: gray;
+    font-weight: 100;
+}
+
+.text2 {
+    margin-top: 30px;
+    color: #222fd9;
+}
+
+.text3 {
+    margin-top: 10px;
+    color: gray;
+}
+
+
+.table {
+    background-color: #dcddeb;
+    border-top: 2px solid #b4b7d7;
+    border-bottom: 2px solid #222fd9;
+}
+
+.table1 img{
+    width: 80%;
+    height: 100%;
+    padding: 10%;
+    margin: 0;
+}
+
+.table ul {
+    text-align: left;
+    margin-top: -10%;
+    padding: 0;
+    list-style: none;
+}
+
+.table ul li {
+    padding-top: 10%;
+    margin: 0;
+}
+
+.table ul li:before {
+    content: ">  ";
+    color: blue;
+}
+
+.sosmed {
+    width: 100%;
+    display: inline-flex;
+}
+
+.sosmed img{
+    width: 15%;
+    height: auto;
+}
+
+.sosmed b {
+    display: block;
+    margin-top: 10%;
+    padding: 0;
+}
+
+#ig {
+    width: 33%;
+    background-color: #a4497f;
+    color: white;
+    padding: 5% 0;
+    margin: 0;
+}
+
+#fb {
+    width: 34%;
+    background-color: #7084d5;
+    color: white;
+    padding: 5% 0;
+    margin: 0;
+}
+
+#fb img {
+    width: 8%;
+    height: auto;
+    margin: 0;
+}
+
+#twit {
+    width: 33%;
+    background-color: #99c5f6;
+    color: white;
+    padding: 5% 0;
+    margin: 0;
+}
+
+#footer {
+    color: #222fd9;
+    margin: 0;
+    padding: 20px;
+}
